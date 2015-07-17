@@ -4,7 +4,8 @@ Changelog
 2.0a14 (unreleased)
 -------------------
 
-- Nothing changed yet.
+- Unified event_listing style with plonetheme.barceloneta styles and added svg icons.
+  [agitator]
 
 
 2.0a13 (2015-07-15)
